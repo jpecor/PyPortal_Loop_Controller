@@ -1,7 +1,7 @@
 # PyPortal_Loop_Controller
 Simple PyPortal-based loop/sequencer controller for Apple GarageBand.
 
-I'm currently working on an the electronics for an art installation that will be happening this spring in my hometown. The project is a fusion of metalworking sculpture and technology for the purpose of creating an engaging discovery and play attraction for kids in a local park.
+I'm currently working on the electronics for an art installation that will be happening this spring in my hometown. The project is a fusion of metalworking sculpture and technology for the purpose of creating an engaging discovery and play attraction for kids in a local park.
 
 The PyPortal makes an excellent prototype for the touch sensors / human interface that the real project will have. For the sake of ease and expediency, I wanted to use GarageBand to create a simple multi-track song that I can loop.
 
