@@ -9,4 +9,11 @@ GarageBand doesn't provide much in the way of external controls, but it *IS* pos
 
 There are a number of ways to improve this approach, but it's good enough to demonstrate proof of concept. 
 
+Read about the art exhibit: 
+[Trolling for Whimsey - Altoona’s River Prairie to get interactive sculptures of mythical monsters](https://volumeone.org/articles/2019/11/27/33319_trolling_for_whimsey)
+
+[Click here to buy a PyPortal from Adafruit.](https://www.adafruit.com/product/4116)
+
+[Click here to learn more about CircuitPython.](https://circuitpython.org/)
+
 ![loop_controller](https://live.staticflickr.com/65535/49454680858_a03c7a9890.jpg)
